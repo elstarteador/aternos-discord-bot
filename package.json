@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "start": "node index",
-        "setup": "pip3 install python_aternos &&  npm i"
+        "setup": "pip3 install python_aternos --break-system-packages && npm i"
     },
     "dependencies": {
         "archiver": "^5.3.0",
