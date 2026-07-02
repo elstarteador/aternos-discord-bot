@@ -3,8 +3,9 @@
     "version": "1.0.0",
     "description": "NODEJS Discord Aternos Bot made with python",
     "main": "index.js",
-    "scripts": {
-        "start": "node index",
+"scripts": {
+  "start": "node index"
+},
         "setup": "pip3 install python_aternos --break-system-packages && npm i"
     },
     "dependencies": {
