@@ -1,5 +1,5 @@
 {
-    "name": "Discord Aternos",
+    "name": "aternos-discord-bot",
     "version": "1.0.0",
     "description": "NODEJS Discord Aternos Bot made with python",
     "main": "index.js",
